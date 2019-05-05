@@ -1,0 +1,10 @@
+D:\Liliya\пяп\2 курс\2\Network\Network\bin\Debug\Network.exe.config
+D:\Liliya\пяп\2 курс\2\Network\Network\bin\Debug\Network.exe
+D:\Liliya\пяп\2 курс\2\Network\Network\bin\Debug\Network.pdb
+D:\Liliya\пяп\2 курс\2\Network\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
+D:\Liliya\пяп\2 курс\2\Network\Network\obj\Debug\Network.Form1.resources
+D:\Liliya\пяп\2 курс\2\Network\Network\obj\Debug\Network.Properties.Resources.resources
+D:\Liliya\пяп\2 курс\2\Network\Network\obj\Debug\Network.csproj.GenerateResource.Cache
+D:\Liliya\пяп\2 курс\2\Network\Network\obj\Debug\Network.exe
+D:\Liliya\пяп\2 курс\2\Network\Network\obj\Debug\Network.pdb
+D:\Liliya\пяп\2 курс\2\Network\Network\obj\Debug\Network.Form2.resources
